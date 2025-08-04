@@ -1,6 +1,6 @@
 import React from 'react'
 
-const paragraph = () => {
+const Paragraph = () => {
   return (
     <div>
         <div className='text-center justify-center'>
@@ -15,4 +15,4 @@ const paragraph = () => {
   )
 }
 
-export default paragraph
+export default Paragraph
