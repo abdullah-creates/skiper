@@ -6,7 +6,7 @@ import MinimalCardCarousel from './components/HomeCard/MinimalCardCarousel';
 import SkiperCardPage from './components/HomeCard/SkiperCardPage';
 import AIInputCard from './components/HomeCard/AIInputCard';
 import AnimationCard from './components/HomeCard/AnimationCard';
-import Paragraph from './components/HomeCard/paragraph';
+import Paragraph from './components/HomeCard/Paragraph';
 
 const page = () => {
   return (
